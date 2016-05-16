@@ -1,5 +1,5 @@
 # antivirus-test
-Zrzuty ekranu ze strony https://www.virustotal.com/ dla wirusa testowego Eicar w roznych wariantach:
+Zrzuty ekranu ze strony https://www.virustotal.com/ dla wirusa testowego Eicar (http://www.eicar.org/) w roznych wariantach:
 
 01_plain - czysty kod Eicar (oryginalny plik wirusa testowego Eicar)
 
